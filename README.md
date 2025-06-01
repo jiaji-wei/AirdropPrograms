@@ -4,6 +4,7 @@
 
 ```sh
 $ bun install # install Solhint, Prettier, and other Node.js deps
+$ forge install
 ```
 
 ## Usage
